@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Echchhit Srivastava
+- 👀 I’m interested in Geopolitics, Sports and Fitness
+- 🌱 I’m currently learning Data Structure and Algorithms in Java
+- 📫 You can reach me at:
+  - [Instagram](https://www.instagram.com/srivastavaechchhit2021/)
+  - [LinkedIn](https://www.linkedin.com/in/echchhit-srivastava)
